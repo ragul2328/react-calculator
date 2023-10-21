@@ -1,0 +1,36 @@
+
+.container{
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: fit-content;
+  background: black;
+  
+}
+.calculator{
+  background-color: #666565;
+}
+.calculator input{
+ border: 1px solid black;
+ padding: 15px;
+ width: 178px;
+ background: #666565;
+ color: whitesmoke;
+ text-align: right;
+ border-radius: 5px;
+ font-size: 1.2em;
+}
+.elements input{
+  width: 20px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid rgb(255, 255, 255);
+  font-weight: bolder;
+  background-color: black;
+  color: white;
+
+}
+.equal{
+  position: relative;
+  top: 50px;
+}
+
